@@ -1,6 +1,6 @@
 # Raspberry Pi Pinout for printing
 
-Download and print in A4 paper.   
+Download the PDF file and print using A4 paper.   
 The thickness of paper can make a difference here.0
 
 # Usage  
